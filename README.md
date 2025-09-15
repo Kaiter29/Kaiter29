@@ -1,4 +1,4 @@
-# Olá, eu sou o Alexsander Gonçalves ! 👋
+# Olá, sou Alexsander Gonçalves ! 👋
 
 ## 👨‍💻 Sobre mim
 Sou um desenvolvedor focado em transformar ideias em soluções práticas. Busco uma visão completa dos projetos, atuando do back-end ao front-end para criar ferramentas coesas e funcionais.
